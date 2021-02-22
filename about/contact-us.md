@@ -1,4 +1,5 @@
 <html><b><u>Contact Us</b></u></html>
+<head></head>
 <body>
 <h1>Email:- Lesandusugathadasa@email.com </h>
 <h2>If you want to contact me please do write a email to my email address So I can improve this website further</h2>
@@ -11,3 +12,4 @@
 
 <!-- Initialize Firebase -->
 <script src="/__/firebase/init.js"></script>
+</body>
